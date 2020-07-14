@@ -1,0 +1,268 @@
+body{
+    background: white;
+}
+
+html{
+    font-size: 62.5%;
+}
+
+.headdiv1{
+    display: flex;justify-content: space-between;
+    line-height: 4rem;
+}
+.heardservicetext{
+    font-size: 1rem;
+    line-height: 10px;
+    color:  #29b078;
+    margin-left: 60px;
+    margin-top: 15px; margin-bottom: 10px;
+    display: flex;
+    min-width:150px ;
+}
+
+.heardserviceicon{
+    margin-left: 5px; margin-right: 5px;
+    max-width: 20px; max-height: 20px;
+}
+
+.heardserviceicondiv{
+    display: flex;
+    margin-right: 120px;
+    margin-top: 10px; margin-bottom: 10px;
+}
+
+.headdiv2{
+    background: #29b078;
+}
+
+.navbox{
+    background-color: #29b078;
+    color: white;
+    margin-bottom: 0; border: 0;
+    border-radius: 0;
+}
+
+.nava1{
+    padding: 1.5rem 0 !important;
+}
+
+.navpicture{
+    width: 7rem; height: 3rem;
+    margin-left: 6rem;
+}
+
+.navbar-toggle:hover {
+    background-color: #29b078 !important;
+}
+
+.navword2{
+    text-align: center;
+    background-color: #29b078!important;
+    color: #fff!important;
+    border-bottom:0.2rem solid #29b078;
+}
+
+
+.footbox{
+    padding-top: 2rem;
+    background-color: #26a26f;
+
+
+}
+.foot1{
+    float: left;
+    padding-right: 5rem;
+}
+
+.foot2{
+    float: left;
+}
+.foot3{
+    float: right;
+}
+.foottitle{
+    font-size: 1.6rem;
+}
+.footcolor{
+    font-weight: 700;
+    color: #fff;
+}
+.footair{
+    padding:3.4rem;
+}
+.footnetbox{
+
+    padding-top: 1.7rem;
+    padding-bottom: 1.7rem;
+}
+.footnet:hover{
+    text-decoration: none;
+    color: #fff;
+    border-bottom: 0.1rem solid #fff;
+}
+
+.bottomp{
+    background: #29b078;
+    text-align: center;
+    font-size: 1rem; font-weight: 100;
+    line-height: 2rem;
+    color: white;
+    margin-bottom: 15px;
+    border-top: 2px solid white;
+}
+
+.breadnavigationbox{
+    display: flex;
+    justify-content: left;
+    background-color: white;
+    border-bottom: 1px solid #999999;
+    padding-left: 1rem;
+    margin-bottom: 2rem;
+}
+
+.breadnavigationtext1{
+    display: inline-block;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: black;
+    line-height: 5rem;
+
+}
+
+.breadnavigationtext2{
+    display: inline-block;
+    font-size: 1.5rem;
+    font-weight: 500;
+    color: #29b078;
+    line-height: 5rem;
+}
+
+.leftbox{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+}
+
+.lefttitle {
+    font-size: 1.6rem;
+    font-weight: 700;
+    border-bottom: 0.1rem solid #e6e6e6;
+    line-height: 6.3rem;
+    text-align: center;
+    margin: 0;
+}
+
+.leftbox2{
+    border: 0.1rem solid #ddeded;
+    border-radius: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background-color: #fff;
+}
+.round{
+    width: 0.3rem;
+    height: 0.3rem;
+    padding: 0.3rem;
+    border: 0.1rem solid #ffcbad;
+    border-radius:50%;
+}
+.leftsmallbox{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1.5rem;
+}
+
+.leftlink {
+    width: 9rem;
+    display: inline-block;
+    text-align: left;
+}
+
+.leftword {
+    padding-left: 1rem;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #29b078;
+}
+
+.leftlist2box{
+    display: flex;
+    margin-left: 25px;
+    border: 1px solid red;
+    width: 100%;
+    float: left;
+
+}
+
+.leftlist2topbox {
+    display: flex;
+    border-bottom: 0.1rem solid red;
+
+}
+
+
+.leftlist2topboxtext {
+    float: right;
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 2.3rem;
+    margin: 0;
+}
+
+.leftlist2topboxtext1 {
+    font-size: 1rem;
+    font-weight: 600;
+    line-height: 2.3rem;
+    margin: 0;
+}
+
+.rightbox2{
+    border: 0.1rem solid #ddeded;
+    border-radius: 1rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    background-color: #fff;
+}
+.righttopbox{
+    border-bottom: 0.1rem solid #ddeded;
+    padding-right: 2rem;
+    padding-left: 2rem;
+    padding-top: 3rem;
+    padding-bottom: 2rem;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #999;
+}
+
+
+.toppicture{
+    width: 15.5rem;
+    height: 5.5rem;
+    margin: 2rem;
+    float: left;
+}
+pword1{
+    padding-right: 3rem;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #999;
+    margin: 0;
+}
+.rightword1{
+    padding-top: 2rem;
+    padding-left: 4rem;
+    padding-right: 4rem;
+    margin-bottom: 7rem;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #999;
+}
+.rightword{
+    padding-left: 4rem;
+    padding-right: 4rem;
+    margin-bottom: 7rem;
+    font-size: 1.4rem;
+    font-weight: 700;
+    color: #999;
+}
