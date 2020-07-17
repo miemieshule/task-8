@@ -1,0 +1,14 @@
+
+@media screen and (max-width: 992px) {
+    .mainarea4row1grid1p {
+        width: 14rem;
+
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .mainarea4row1grid1p {
+        width: 18rem;
+
+    }
+}

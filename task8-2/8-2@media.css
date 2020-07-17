@@ -1,0 +1,37 @@
+@media screen and (max-width: 425px) {
+    .Breadcrumbnavigation1{
+        font-size: 1.5rem;
+        color: darkgoldenrod;
+    }
+
+    .Breadcrumbnavigation{
+        margin-bottom: 5px;
+        margin-top: 5px;
+    }
+
+    .Thelistisintroduceddiv{
+        padding-top: 10px;
+        padding-bottom: 10px;
+    }
+}
+
+@media screen and (max-width: 400px) and (max-width: 768px){
+    .Screeningofnavigation{
+        display: flex;
+        flex-flow: column wrap;
+        height: 9rem;
+
+    }
+
+}
+
+@media screen and (max-width: 992px){
+    .Screeningofnavigation{
+        display: flex;
+        justify-content: space-between;
+        flex-flow: column wrap;
+        height: 5rem;
+    }
+
+}
+
